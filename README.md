@@ -1,8 +1,8 @@
 # PUI2015_dstarobin
 
 There are several idiosyncracies unique to a Git bash Windows
-implementation. The most notable are that 1) neither emacs nor 
-vim will run on a Windows machine (at least not without an
+implementation. The most notable are that 1) emacs will not 
+run on a Windows machine (at least not without an
 emulator or running a separate VM, which can be a pain), 
 and 2), I could find no documemtation about enabling an alias
 to always initialte in Git bash for Windows via bashrc 
@@ -15,8 +15,8 @@ advice if there's a legit way to do it on a Windows machine.
 
 I abandoned the alias idea and instead went with a simple 
 bash shell script. I've hightlighted two shell scripts in the
-image below. One is the default text editor script (subl); the 
-other is the "alias" script.
+image below. One is the default text editor script (subl), which
+will launch Sublime; the other is the "alias" script.
 ![Bash script directory locations](bashscripts.png)
 
 Below are two screenshots; the first is of the contents of 
