@@ -2,8 +2,7 @@
 
 There are several idiosyncracies unique to a Git bash Windows
 implementation. The most notable are that 1) emacs will not 
-run on a Windows machine (at least not without an
-emulator or running a separate VM, which can be a pain), 
+run on a Windows machine and I'm not comfortable with VIM,
 and 2), I could find no documemtation about enabling an alias
 to always initialte in Git bash for Windows via bashrc 
 (i.e. source bashrc) when instantiating the shell. I tried
