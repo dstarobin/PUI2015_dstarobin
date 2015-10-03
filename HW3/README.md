@@ -1,1 +1,1 @@
-This is a placeholder MD file for now. I just used it to create a subdirectory inside my PUI2015 repo right from the github online interface. 
+The JSON associated with both iPython notebooks (for HW3 tasks 1 and 2) in this directory can be copied and run normally. There are no special Python libraries used in either notebook.
