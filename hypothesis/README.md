@@ -1,3 +1,5 @@
+The python script in the hypothesis folder can be run on any citibike csv.
+
 **Ha: The ratio of subscriber trips to customer trips is lower on weekends than on weekdays.**
 
 **Ho: The ratio of subscriber trips to customer trips is the same or higher on weekends than on weekdays.**
@@ -7,28 +9,28 @@ between low month (Feb) and peak (July). Lots of ways to look at it:
 
 *Intra* month subscriber to customer ratios on weekdays vs subscriber to customer ratios on weekends
 
-For July 2015:
-cust wknds: 73035
-sub wknds: 156930
-ratio = 2.15
-
-cust wkdys: 107327
-sub wkdys: 748384
-ratio = 6.97
-
-For Feb 2015:
-cust wknds: 1054
-sub wknds: 39783
-ratio = 37.74
-
-cust wkdys: 1211
-sub wkdys: 154882
-ratio =  127.89
+	For July 2015:
+	cust wknds: 73035
+	sub wknds: 156930
+	ratio = 2.15
+	
+	cust wkdys: 107327
+	sub wkdys: 748384
+	ratio = 6.97
+	
+	For Feb 2015:
+	cust wknds: 1054
+	sub wknds: 39783
+	ratio = 37.74
+	
+	cust wkdys: 1211
+	sub wkdys: 154882
+	ratio =  127.89
 
 *Intra* month ratio of the ratios above
 
-July 2015 wkdys ratio of 6.97: wknds ratio of 2.15 = 3.24
-Feb 2015 wkdys ratio of 127.89: wknds ratio of 37.74 = 3.39
+	July 2015 wkdys ratio of 6.97: wknds ratio of 2.15 = 3.24
+	Feb 2015 wkdys ratio of 127.89: wknds ratio of 37.74 = 3.39
 
 *Inter* month comparisons
 
