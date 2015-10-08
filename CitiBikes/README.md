@@ -1,3 +1,1 @@
-For all assignments, please note that I used the python os library to set my working directory 
-because I cannot create an environment alias that persists on a Windows machine (I created
-a shell script for it in HW1, but it does not work in ipynb).
+For HW3, assgnment 3, I defined what we would analyze, wrote the initial Ho and Ha (subsequently improved upon by the group), and wrote the initial python script that can be found here. 
