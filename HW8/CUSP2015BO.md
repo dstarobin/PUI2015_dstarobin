@@ -8,4 +8,5 @@ Aesthetically, this plot is simple without clutter, which is nice. However, it c
 4. Is this the distance or average distance for all tracts within the borough? That should be clarified.
 5. Instead of numbering each box plot on the x-axis and using a key that indicates the borough referenced, replace the number with the borough name and cut out the key.
 6. The plot's background makes it difficult to see the horizontal grid lines. Perhaps make the background white with grey or lightweight black dotted grid lines. 
+7. Remove the vertical grid lines since there are no values on the x-axis.
 
