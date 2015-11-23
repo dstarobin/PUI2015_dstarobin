@@ -1,5 +1,4 @@
-https://github.com/jpmora69/PUI2015_jpmora/raw/master/HW8/Plot.png
-
+![Image of jpmora69 Subway Daily Entries chart](https://github.com/jpmora69/PUI2015_jpmora/raw/master/HW8/Plot.png)
 
 Aesthetically, this plot is clean and does not contain many distractions. It's clear in its representation of the data. There are a few ways in which it can be improved.
 
