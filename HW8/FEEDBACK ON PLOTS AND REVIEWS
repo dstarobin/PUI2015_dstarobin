@@ -1,0 +1,50 @@
+your reviews are very critical, which is a great thing, and insightful. 10/10
+
+NOTES ON YOUR PLOT
+=================
+
+very nice plot that summarize a lot of details at once
+
+labels in the legend top left too small to read
+
+nice unobtrusive labels showing single events
+
+drop rides from the labels on the right for compactness
+
+
+consider a more compact notation for the y axis: e.g. use units of 1000 rides
+
+
+
+NOTES ON THE PLOTS YOU REVIEWED
+==================================
+
+CUSP2015BO
+==========
+
+good plot, good choice of BW and mean/median in read that highlights it. 
+
+consider using a larger unit on the y axis (miles?)
+
+
+jpmora
+======
+
+nice location of the legends in two different spots,
+
+nice proportions, appropriate to display the data without getting distracted by empty space
+
+labels too small
+
+yuqiaocen
+=========
+
+eviews$ head FBB_yuqiaocen.md
+the plot is very busy. 
+
+no point in starting at the negative range: remove the <0 space
+
+two legends for the regression lines and the datapoints may be better: clearer less overwhelming
+
+association of color to rage triggers preconceptions. since you have few categories shapes may be a better choice.
+
